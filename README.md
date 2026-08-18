@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="resources/applied-program.png" alt="Banner" />
+  <a href="https://ds500.paiml.com"><img src="resources/applied-program.png" alt="Banner" /></a>
 </p>
 
 
