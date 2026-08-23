@@ -11,14 +11,20 @@
 </div>
 
 <p align="center">
-  <a href="https://ds500.paiml.com"><img src="resources/applied-program.png" alt="Banner" /></a>
+  <a href="https://ds500.paiml.com/learn/applied-program/llmops"><img src="resources/applied-program.png" alt="Banner" /></a>
 </p>
-
 
 An 8-week, project-based, portfolio-first program on operationalizing Large
 Language Models (LLMOps). Build a real LLM application, ship it publicly, and
-walk away with a portfolio piece, not a grade.
+walk away with a portfolio piece, not a grade. **Add to your calendar and start building**
 
+<div align="center">
+  
+<a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=google"><img src="https://img.shields.io/badge/Add_to_Calendar-Google-4285F4?logo=googlecalendar" /></a>
+<a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=outlook"><img src="https://img.shields.io/badge/Add_to_Calendar-Outlook-0078D4?logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=ics"><img src="https://img.shields.io/badge/Download-.ics-6E6E6E?logo=icalendar&logoColor=white" /></a>
+
+</div>
 
 <details>
   <summary><b>Table of Contents</b></summary>
