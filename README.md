@@ -14,12 +14,10 @@
   <a href="https://ds500.paiml.com/learn/applied-program/llmops"><img src="resources/applied-program.png" alt="Banner" /></a>
 </p>
 
-An 8-week, project-based, portfolio-first program on operationalizing Large
-Language Models (LLMOps). Build a real LLM application, ship it publicly, and
-walk away with a portfolio piece, not a grade. **Add to your calendar and start building**
+An 8-week, project-based, portfolio-first program on operationalizing Large Language Models (LLMOps). Build a real LLM application, ship it publicly, and walk away with a portfolio piece, not a grade. **Add to your calendar and start building**
 
 <div align="center">
-  
+
 <a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=google"><img src="https://img.shields.io/badge/Add_to_Calendar-Google-4285F4?logo=googlecalendar" /></a>
 <a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=outlook"><img src="https://img.shields.io/badge/Add_to_Calendar-Outlook-0078D4?logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://ds500.paiml.com/learn/applied-program/llmops/calendar.html?calendar=ics"><img src="https://img.shields.io/badge/Download-.ics-6E6E6E?logo=icalendar&logoColor=white" /></a>
@@ -50,52 +48,41 @@ walk away with a portfolio piece, not a grade. **Add to your calendar and start 
 
 ## How this program works
 
-There's no grading, no enrollment gate, and no required login. Everything you
-need to complete the program is in this repository.
+There's no grading, no enrollment gate, and no required login. Everything you need to complete the program is in this repository.
 
 There are two ways to run through it:
 
-* **Rolling (self-paced):** Start whenever you want. No meetings, no
-  cohort — you work through the 8 weeks on your own schedule and
-  self-assess your project against the [checklist](./SELF_ASSESSMENT.md).
-* **Cohort:** Runs alongside a shared start date with a dedicated Discord
-  channel and an end-of-run call where participants demo their projects to
-  each other (peer feedback, not grading).
+* **Rolling (self-paced):** Start whenever you want. No meetings, no cohort — you work through the 8 weeks on your own schedule and self-assess your project against the [checklist](./SELF_ASSESSMENT.md).
+* **Cohort:** Runs alongside a shared start date with a dedicated Discord channel and an end-of-run call where participants demo their projects to each other (peer feedback, not grading).
 
-Each week lists a plain-language objective, supporting resources, and a demo
-video prompt. The video prompt is worth doing even outside a cohort — it's
-the habit that turns a week of work into a LinkedIn post and a portfolio
-entry.
+Each week lists a plain-language objective, supporting resources, and a demo video prompt. The video prompt is worth doing even outside a cohort — it's the habit that turns a week of work into a LinkedIn post and a portfolio entry.
 
 > [!IMPORTANT]
-> You are not required to watch or read every resource listed. Nothing here
-> is graded. Use the content as support for your project, not as a
-> checklist to complete for its own sake.
+> You are not required to watch or read every resource listed. Nothing here is graded. Use the content as support for your project, not as a checklist to complete for its own sake.
 
 > [!NOTE]
-> **Diversity Statement:** We share a commitment to diversity and equity,
-> removing barriers to learning so that everyone can participate fully.
-> This program is meant to be useful to people with a wide range of
-> backgrounds, identities, and learning styles, whether you found it through
-> a cohort or on your own on GitHub.
+> **Diversity Statement:** We share a commitment to diversity and equity, removing barriers to learning so that everyone can participate fully. This program is meant to be useful to people with a wide range of backgrounds, identities, and learning styles, whether you found it through a cohort or on your own on GitHub.
 
 ### Prerequisites
 
-Basic Linux and programming skills. You can complete all project work in
-either Python or Rust — you don't need both.
+Basic Linux and programming skills. You can complete all project work in either Python or Rust — you don't need both.
+
 
 **Linux**
 
 If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering](https://ds500.paiml.com/course/nyu26) · [Coursera](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
+
 
 **Python**
 
 * [Python Essentials for MLOps – Week 1: Introduction to Python](https://ds500.paiml.com/course/o184n/1) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
 * [Python Essentials for MLOps – Week 2: Python Functions and Classes](https://ds500.paiml.com/course/o184n/2) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
 
+
 **Rust**
 
 * [Rust Fundamentals](https://ds500.paiml.com/course/g6u1k) · [Coursera](https://www.coursera.org/learn/rust-fundamentals)
+
 
 #### Additional support resources
 
@@ -105,14 +92,16 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [Cloud Computing Foundations](https://ds500.paiml.com/course/4ycpb)
 * [Python Essentials for MLOps](https://ds500.paiml.com/course/o184n) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
 
+
 ## 8-Week Syllabus
+
 
 ### Week 1: Generative AI Concepts + Dev Environment Setup
 
-1. Choose the problem your project will solve, and who it's for (see
-   [PROJECT.md](./PROJECT.md))
+1. Choose the problem your project will solve, and who it's for (see [PROJECT.md](./PROJECT.md))
 2. Choose your programming stack — Python or Rust
 3. Set up your dev environment and initialize the project repository
+
 
 * [Introduction to Generative AI](https://ds500.paiml.com/course/0bbb5/1/2/3) · [Coursera](https://www.coursera.org/learn/intro-gen-ai)
 * [Public Speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking)
@@ -121,18 +110,18 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [Python Development Environments](https://ds500.paiml.com/course/qzyhh/1/2/2)
 * [Pytest Master Class](https://ds500.paiml.com/course/o184n/3/1/5) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
 * [Python Essentials for MLOps – Week 5: Applied Python for MLOps](https://ds500.paiml.com/course/o184n/5) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
-* Rust: [Setting up your Rust Development environment](https://ds500.paiml.com/course/g6u1k/5/1/2) · [Coursera](https://www.coursera.org/learn/rust-fundamentals)
+* [Rust: Setting up your Rust Development environment](https://ds500.paiml.com/course/g6u1k/5/1/2) · [Coursera](https://www.coursera.org/learn/rust-fundamentals)
 
 
 **Weekly demo video prompt:** Discuss your plan for your individual project — what you're building and how you'll pace it over the next 8 weeks — and describe your programming language choice, including its advantages and potential pitfalls. Use the [Public Speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking) guidelines to deliver a great demo.
 
+
 ### Week 2: Interacting with Large Language Models
 
-1. Decide how you'll interact with the SLM/LLM (direct API calls, an SDK, a
-   local server's HTTP endpoint, etc.)
-1. Experiment with prompts against a model and note the failure modes your
-   application will need to handle (bad output, timeouts, hallucination)
-1. Sketch the input/output contract your application expects from the model
+1. Decide how you'll interact with the SLM/LLM (direct API calls, an SDK, a local server's HTTP endpoint, etc.)
+2. Experiment with prompts against a model and note the failure modes your application will need to handle (bad output, timeouts, hallucination)
+3. Sketch the input/output contract your application expects from the model
+
 
 * [Interacting with models](https://ds500.paiml.com/course/0bbb5/1/4/5) · [Coursera](https://www.coursera.org/learn/intro-gen-ai)
 * [Building robust Generative AI systems](https://ds500.paiml.com/course/0bbb5/1/3/4) · [Coursera](https://www.coursera.org/learn/intro-gen-ai)
@@ -141,29 +130,31 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [Practical MLOps, Chapter 1: Introduction to MLOps](https://ds500.paiml.com/course/f5sj1/3/1/1)
 * [Practical MLOps, Chapter 2: MLOps Foundations](https://ds500.paiml.com/course/f5sj1/3/1/2)
 
+
 **Weekly demo video prompt:** Explain some challenges your application will face working with LLM output, and what you'll do to mitigate them.
+
 
 ### Week 3: Local Large Language Models
 
-1. Evaluate the local LLMs/SLMs available to you (Llamafile, Ollama,
-   llama.cpp, etc.) against your problem
-1. Choose the model and serving tool for your project
-1. Get it running locally and confirm you can call it programmatically from
-   your application's stack
+1. Evaluate the local LLMs/SLMs available to you (Llamafile, Ollama, llama.cpp, etc.) against your problem
+2. Choose the model and serving tool for your project
+3. Get it running locally and confirm you can call it programmatically from your application's stack
+
 
 * [Beginning Llamafile for Local Large Language Models (LLMs)](https://ds500.paiml.com/course/2pzqq/2/1/2) · [Coursera](https://www.coursera.org/learn/llamafile-local-llm)
 * [Getting Started with Open Source Ecosystem](https://ds500.paiml.com/course/zr1li/1) · [Coursera](https://www.coursera.org/learn/open-source-llmops-solutions)
 * [Foundations of Local Large Language Models](https://ds500.paiml.com/course/vm5ox/1) · [Coursera](https://www.coursera.org/learn/local-large-language-models)
 
+
 **Weekly demo video prompt:** Describe your evaluation of the local LLMs/SLMs available with Llamafile and which one fits your project best.
+
 
 ### Week 4: Applied Solutions + Extensibility
 
-1. Build the core application logic around the model — input handling,
-   prompt construction, output parsing, error handling
-1. Identify what plugins or functions would extend your application, and
-   pick one to prototype
-1. Sketch an architectural overview of your application
+1. Build the core application logic around the model — input handling, prompt construction, output parsing, error handling
+2. Identify what plugins or functions would extend your application, and pick one to prototype
+3. Sketch an architectural overview of your application
+
 
 * [Local LLMOps](https://ds500.paiml.com/course/zr1li) · [Coursera](https://www.coursera.org/learn/open-source-llmops-solutions)
 * [AI Pair Programming from CodeWhisperer to Prompt Engineering](https://ds500.paiml.com/course/qzyhh/2/2/2)
@@ -175,40 +166,46 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [Applications of LLMs](https://ds500.paiml.com/course/0bbb5/3/1/3) · [Coursera](https://www.coursera.org/learn/intro-gen-ai)
 * [MLOps Platforms: Amazon SageMaker and Azure ML – Week 1](https://ds500.paiml.com/course/y7ji0/1) · [Coursera](https://www.coursera.org/learn/mlops-aws-azure-duke)
 
+
 **Weekly demo video prompt:** Walk through the architectural overview of your application and its challenges, and explain what plugins or functions would extend it — and what would make that harder in a production environment.
+
 
 ### Week 5: Retrieval Augmented Generation
 
 1. Decide whether RAG fits your project — not every project needs it
-1. If it does, implement a basic retrieval pipeline over your document set
-1. If it doesn't, document why, so the decision shows up in your project's
-   history and demo
+2. If it does, implement a basic retrieval pipeline over your document set
+3. If it doesn't, document why, so the decision shows up in your project's history and demo
+
 
 * [Introduction to Retrieval Augmented Generation (RAG)](https://ds500.paiml.com/course/0bbb5/3/2/3) · [Coursera](https://www.coursera.org/learn/introduction-to-rag)
 * [Emerging Topics in Machine Learning](https://ds500.paiml.com/course/f5sj1/3)
 
+
 **Weekly demo video prompt:** How would adding RAG to your application change the experience for an end user? Why would you (or wouldn't you) use RAG here?
+
 
 ### Week 6: Python Web Frameworks for APIs
 
-1. Choose a web framework (FastAPI, Flask, or a Rust equivalent) if your
-   interface needs one — skip this if your interface is a CLI
-1. Wire the framework into your existing application logic
-1. Expose your application's endpoints and confirm they work end to end
+1. Choose a web framework (FastAPI, Flask, or a Rust equivalent) if your interface needs one — skip this if your interface is a CLI
+2. Wire the framework into your existing application logic
+3. Expose your application's endpoints and confirm they work end to end
+
 
 * [Introduction to FastAPI Framework](https://ds500.paiml.com/course/o184n/5/3/5) · [Coursera](https://www.coursera.org/learn/introduction-to-fastapi-framework)
 * [Introduction to Flask Framework](https://ds500.paiml.com/course/o184n/5/3/3) · [Coursera](https://www.coursera.org/learn/introduction-to-flask-framework)
 * [Applied Python for MLOps](https://ds500.paiml.com/course/o184n/5) · [Coursera](https://www.coursera.org/learn/python-mlops-duke)
 * [Cloud Virtualization, Containers and APIs](https://ds500.paiml.com/course/2qt9g/2/2/4)
 
+
 **Weekly demo video prompt:** What are the benefits of the framework you chose, and how will you wire it into your application?
+
 
 ### Week 7: DevOps Principles + Deploying ML APIs
 
 1. Containerize the application, without baking the model into the image
-1. Set up GitHub Actions CI to build the container image on push
-1. Apply and document basic DevOps and responsible-AI practices for your
-   project
+2. Set up GitHub Actions CI to build the container image on push
+3. Apply and document basic DevOps and responsible-AI practices for your project
+
 
 * [Responsible Generative AI](https://ds500.paiml.com/course/4saal) · [Coursera](https://www.coursera.org/learn/ai-security-and-governance-on-aws)
 * [Applying DevOps Principles](https://ds500.paiml.com/course/4ycpb/5)
@@ -218,16 +215,16 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [Building an End-to-End LLM application in Azure](https://ds500.paiml.com/course/ap1hj/1) · [Coursera](https://www.coursera.org/learn/azure-llm-large-language-models)
 * [Operations](https://ds500.paiml.com/course/2qt9g/4)
 
+
 **Weekly demo video prompt:** How are you applying DevOps and responsible AI principles — and automation — to your application? What difficulties came up building the automation, and how will it benefit the project going forward?
+
 
 ### Week 8: LLM Platforms + Ship & Finalize
 
-1. Evaluate what a cloud LLM platform would change about your application,
-   as a point of comparison to your local/self-deployed setup
-1. Run your project against the [self-assessment
-   checklist](./SELF_ASSESSMENT.md)
-1. Publish the repository publicly and write a short portfolio/LinkedIn post
-   linking to it
+1. Evaluate what a cloud LLM platform would change about your application, as a point of comparison to your local/self-deployed setup
+2. Run your project against the [self-assessment checklist](./SELF_ASSESSMENT.md)
+3. Publish the repository publicly and write a short portfolio/LinkedIn post linking to it
+
 
 * [Introduction to LLMOps with Azure](https://ds500.paiml.com/course/lxulo/1/3/5) · [Coursera](https://www.coursera.org/learn/llmops-azure)
 * [mlflow-project-best-practices](https://github.com/noahgift/mlflow-project-best-practices)
@@ -237,32 +234,24 @@ If you need to shore up basic Linux skills: [Linux and Bash for Data Engineering
 * [MLOps Platforms: Amazon SageMaker and Azure ML – Week 5](https://ds500.paiml.com/course/y7ji0/5) · [Coursera](https://www.coursera.org/learn/mlops-aws-azure-duke)
 
 
-Finish the project: publish the repository, run it against the
-[self-assessment checklist](./SELF_ASSESSMENT.md), and write a short
-portfolio/LinkedIn post pointing at the repo. Rolling learners get a closing
-email when they hit this week; cohort learners present on the end-of-run
-call instead of (or in addition to) posting.
-
 **Weekly demo video prompt:** How would adding a cloud LLM platform change what your application can do, and what's a drawback of relying on one? Wrap with a short demo of the finished project.
+
+Finish the project: publish the repository, run it against the [self-assessment checklist](./SELF_ASSESSMENT.md), and write a short portfolio/LinkedIn post pointing at the repo. Rolling learners get a closing email when they hit this week; cohort learners present on the end-of-run call instead of (or in addition to) posting.
+
 
 ## The Project
 
-The whole program is built around a single project you start in Week 1 and
-ship in Week 8: an application that solves a real problem using a local or
-self-deployed LLM/SLM. See [PROJECT.md](./PROJECT.md) for what that means
-and how to scope it, and the [self-assessment
-checklist](./SELF_ASSESSMENT.md) for what "done" looks like.
+The whole program is built around a single project you start in Week 1 and ship in Week 8: an application that solves a real problem using a local or self-deployed LLM/SLM. See [PROJECT.md](./PROJECT.md) for what that means and how to scope it, and the [self-assessment checklist](./SELF_ASSESSMENT.md) for what "done" looks like.
 
 > [!IMPORTANT]
-> **Do not build a model yourself.** Reuse an existing LLM or SLM. Use
-> [Mozilla Llamafile](https://github.com/Mozilla-Ocho/llamafile) as a
-> reference for running one locally, or another local serving tool (Ollama,
-> llama.cpp, etc.) — details in [PROJECT.md](./PROJECT.md).
+> **Do not build a model yourself.** Reuse an existing LLM or SLM. Use [Mozilla Llamafile](https://github.com/Mozilla-Ocho/llamafile) as a reference for running one locally, or another local serving tool (Ollama, llama.cpp, etc.) — details in [PROJECT.md](./PROJECT.md).
 
 The primary two resources for building an LLM solution on a local API:
 
 1. [Beginning Llamafile for Local Large Language Models (LLMs)](https://ds500.paiml.com/course/2pzqq/2/1/2) · [Coursera](https://www.coursera.org/learn/llamafile-local-llm)
 2. [Getting Started with Open Source Ecosystem](https://ds500.paiml.com/course/zr1li/1) · [Coursera](https://www.coursera.org/learn/open-source-llmops-solutions)
+
+
 
 #### Machine Learning References
 
@@ -270,10 +259,14 @@ The primary two resources for building an LLM solution on a local API:
 * [TensorFlow Hub](https://www.tensorflow.org/hub)
 * [Classify text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
 
+
+
 #### AutoML References
 
 * [AutoML with CreateML](https://ds500.paiml.com/course/f5sj1/2/1/5)
 * [AutoML and KaizenML](https://ds500.paiml.com/course/f5sj1/2/1/4)
+
+
 
 #### Python References
 
@@ -283,6 +276,7 @@ The primary two resources for building an LLM solution on a local API:
 * [Refactoring a Python script into a library called by Python Click CLI](https://ds500.paiml.com/course/9uu8k/1/2/10) · [Coursera](https://www.coursera.org/learn/python-rust-linux)
 * [Container Continuous Delivery](https://ds500.paiml.com/course/1uigy/2/1/3)
 * [Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://ds500.paiml.com/course/fu7p5/1/3/5) · [Coursera](https://www.coursera.org/learn/devops-dataops-mlops-duke)
+
 
 ### Referenced Media and Resources
 
@@ -296,6 +290,7 @@ The primary two resources for building an LLM solution on a local API:
 * [Google Qwiklabs](https://www.qwiklabs.com/)
 * [Practical MLOps](https://ds500.paiml.com/course/f5sj1)
 * [Pragmatic AI](https://ds500.paiml.com/course/4ycpb)
+
 
 <details>
 <summary><b>Optional supplementary readings & media</b></summary>
@@ -317,6 +312,7 @@ The primary two resources for building an LLM solution on a local API:
 * [GCP Cloud Functions](https://ds500.paiml.com/course/4ycpb/3/3/9)
 * [Azure AutoML](https://ds500.paiml.com/course/n1h1s/1/3/5)
 
+
 **AWS**
 
 * [AWS Certified Cloud Practitioner Video Course](https://ds500.paiml.com/course/kymo3/1/1/5)
@@ -326,10 +322,14 @@ The primary two resources for building an LLM solution on a local API:
 * [AWS Machine Learning](https://ds500.paiml.com/course/y7ji0) · [Coursera](https://www.coursera.org/learn/mlops-aws-azure-duke)
 * [AWS Solutions Architect](https://ds500.paiml.com/course/0mcoe/3/2/1)
 
+
+
 **GCP**
 
 * [Building AI Applications with GCP](https://ds500.paiml.com/course/mbjn5)
 * [Build GCP Cloud Functions](https://ds500.paiml.com/course/4ycpb/3/3/9)
+
+
 
 **Python**
 
@@ -337,16 +337,16 @@ The primary two resources for building an LLM solution on a local API:
 * [Python and DevOps](https://ds500.paiml.com/course/fu7p5) · [Coursera](https://www.coursera.org/learn/devops-dataops-mlops-duke)
 * [Python Command-line Tools](https://ds500.paiml.com/course/9uu8k) · [Coursera](https://www.coursera.org/learn/python-rust-linux)
 
+
+
 **Linux and Systems Engineering**
 
 * [Docker containers](https://ds500.paiml.com/course/2qt9g/2/2/4)
 * [Linux and Bash for Data Engineering](https://ds500.paiml.com/course/nyu26) · [Coursera](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
 
+
 </details>
 
 ## Community
 
-Join the shared PAIML Discord to ask questions, share progress, and post
-your weekly demos. _(Discord invite link goes here.)_ If you're in a cohort,
-you'll also get invited to a dedicated channel for your run, alongside the
-shared server.
+Join the shared PAIML Discord to ask questions, share progress, and post your weekly demos. If you're in a cohort, you'll also get invited to a dedicated channel for your run, alongside the shared server.

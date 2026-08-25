@@ -17,31 +17,19 @@ weekly demo:
 
 - [ ] Is a screen recording of at least 30 seconds
 - [ ] Answers that week's specific prompt, not just "what I did this week"
-- [ ] Shows visible progress on the project (a running command, a diff, a UI,
-      an architecture sketch — something concrete, not just talking)
-- [ ] Is short and direct — this is a practice rep for the [public
-      speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking)
-      skill of delivering a clear demo, not a polished production
-- [ ] (Cohort) Gets posted to the shared channel, and you've left feedback
-      on two other participants' demos that week
+- [ ] Shows visible progress on the project (a running command, a diff, a UI, an architecture sketch — something concrete, not just talking)
+- [ ] Is short and direct — this is a practice rep for the [public speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking) skill of delivering a clear demo, not a polished production
+- [ ] (Cohort) Gets posted to the shared channel, and you've left feedback on two other participants' demos that week
 
 ## Final project
 
-You're building a Local Large Language Model application. The project is
-"done" when:
+You're building a Local Large Language Model application. The project is "done" when:
 
-- [ ] **Uses an existing model, not one you trained.** Reuse an LLM or SLM —
-      [Llamafile](https://github.com/Mozilla-Ocho/llamafile) is a good
-      reference for running one locally.
-- [ ] **Documented.** The `README.md` explains what the application does,
-      how to set it up, and how to run it, with working examples someone
-      else can follow from a clean checkout.
+- [ ] **Uses an existing model, not one you trained.** Reuse an LLM or SLM — [Llamafile](https://github.com/Mozilla-Ocho/llamafile) is a good reference for running one locally.
+- [ ] **Documented.** The `README.md` explains what the application does, how to set it up, and how to run it, with working examples someone else can follow from a clean checkout.
 - [ ] **Tested.** The project has tests, and they pass.
-- [ ] **Automated.** GitHub Actions builds a working container image on
-      push. The image does not bundle the LLM itself — the model is pulled
-      or mounted at runtime, not baked into the build.
-- [ ] **Public.** The repository is on GitHub, set to public, so it can
-      anchor a portfolio and LinkedIn post.
+- [ ] **Automated.** GitHub Actions builds a working container image on push. The image does not bundle the LLM itself — the model is pulled or mounted at runtime, not baked into the build.
+- [ ] **Public.** The repository is on GitHub, set to public, so it can anchor a portfolio and LinkedIn post.
 
 ## Shipping (Week 8)
 
@@ -49,3 +37,4 @@ You're building a Local Large Language Model application. The project is
 - [ ] Final demo video recorded, answering the Week 8 prompt
 - [ ] Short portfolio/LinkedIn post written, linking to the repo
 - [ ] (Cohort) Project presented on the end-of-run call
+
