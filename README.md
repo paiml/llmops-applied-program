@@ -1,4 +1,4 @@
-<h1 align="center">LLMOps Applied Program</h1>
+<h1 align="center">Build an LLM Application</h1>
 
 <p align="center">Project-based, portfolio-first learning</p>
 
